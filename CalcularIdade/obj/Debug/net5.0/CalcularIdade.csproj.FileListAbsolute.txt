@@ -1,0 +1,16 @@
+C:\DEV\POO_II\CalcularIdade\bin\Debug\net5.0\CalcularIdade.exe
+C:\DEV\POO_II\CalcularIdade\bin\Debug\net5.0\CalcularIdade.deps.json
+C:\DEV\POO_II\CalcularIdade\bin\Debug\net5.0\CalcularIdade.runtimeconfig.json
+C:\DEV\POO_II\CalcularIdade\bin\Debug\net5.0\CalcularIdade.runtimeconfig.dev.json
+C:\DEV\POO_II\CalcularIdade\bin\Debug\net5.0\CalcularIdade.dll
+C:\DEV\POO_II\CalcularIdade\bin\Debug\net5.0\ref\CalcularIdade.dll
+C:\DEV\POO_II\CalcularIdade\bin\Debug\net5.0\CalcularIdade.pdb
+C:\DEV\POO_II\CalcularIdade\obj\Debug\net5.0\CalcularIdade.csproj.AssemblyReference.cache
+C:\DEV\POO_II\CalcularIdade\obj\Debug\net5.0\CalcularIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\POO_II\CalcularIdade\obj\Debug\net5.0\CalcularIdade.AssemblyInfoInputs.cache
+C:\DEV\POO_II\CalcularIdade\obj\Debug\net5.0\CalcularIdade.AssemblyInfo.cs
+C:\DEV\POO_II\CalcularIdade\obj\Debug\net5.0\CalcularIdade.csproj.CoreCompileInputs.cache
+C:\DEV\POO_II\CalcularIdade\obj\Debug\net5.0\CalcularIdade.dll
+C:\DEV\POO_II\CalcularIdade\obj\Debug\net5.0\ref\CalcularIdade.dll
+C:\DEV\POO_II\CalcularIdade\obj\Debug\net5.0\CalcularIdade.pdb
+C:\DEV\POO_II\CalcularIdade\obj\Debug\net5.0\CalcularIdade.genruntimeconfig.cache
