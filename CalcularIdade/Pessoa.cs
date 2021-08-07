@@ -17,22 +17,32 @@ namespace CalcularIdade
             get { return nome; }
             set { nome = value.ToUpper(); }
         }
+
+        //Vamos melhorar isso arqui
+        
+        private int idade;
+        public int Idade
+        {
+            get { 
+                this.CalcularIdade();
+                return this.idade; 
+                }
+        }
         
         public void ExibirDados()
 
         {
             Console.WriteLine("Nome: " +this.Nome);
             Console.WriteLine("Ano de Nascimento: " +this.AnoNascimento);
-            int idade = this.CalcularIdade();
-            Console.WriteLine("Idade: " +idade);           
+            this.CalcularIdade();
+            Console.WriteLine("Idade: " +this.Idade);           
         }
 
-        private int CalcularIdade()
+        private void CalcularIdade()
         {
             DateTime data = DateTime.Now;
             int ano = data.Year;
-            int idade = ano - this.AnoNascimento;
-            return idade;
+            this.idade = ano - this.AnoNascimento;
         }
     }
 }
